@@ -4,7 +4,7 @@
 このソフトはDiscord Nitroに登録しなくてもVCでサウンドを流すソフトです。
 
 [使い方]
-入力デバイスにはお使いのマイクを選択してください。
+入力デバイスにはお使いのマイクを選択してください。\n
 出力デバイスには"VB-Audio Virtual Apps"などの仮想オーディオデバイスを指定してください。
   VB-Audio - https://vb-audio.com/Cable/
     <例>入力 => Your Mic
