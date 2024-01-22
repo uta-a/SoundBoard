@@ -10,9 +10,8 @@
 
   VB-Audio - https://vb-audio.com/Cable/
   
-    <例>入力 => Your Mic
-    
-             出力 => CABLE Input (VB-Vurtual Cable)
+    <例> 入力 => Your Mic
+         出力 => CABLE Input (VB-Vurtual Cable)
              
 これらを指定して<Mic Contraol>内の[Start]を押すとマイク音声が出力されます。
 
@@ -32,9 +31,8 @@ Discord内で
 
 ・入力デバイスを仮想オーディオケーブルに指定して下さい
 
-    <例>入力デバイス => CABLE Output (VB-Vurtual Cable)
-    
-             出力デバイス => Your Headphone
+    <例> 入力デバイス => CABLE Output (VB-Vurtual Cable)
+         出力デバイス => Your Headphone
              
 ・エコー除去をオフにしてください
 
